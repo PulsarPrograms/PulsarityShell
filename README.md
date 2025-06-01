@@ -1,0 +1,2 @@
+# PulsarityShell
+PulsarityShell - simple shell
